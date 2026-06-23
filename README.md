@@ -33,7 +33,7 @@ Showcase application for the [ArcGIS Maps SDK for JavaScript](https://js.arcgis.
 
 ## Deployment
 
-GitHub Pages deployment is configured with a workflow in `.github/workflows/pages-deploy.yml`.
+Application can be viewed live at https://expert-adventure-1qnylvv.pages.github.io/.
 
 ## Resources
 
