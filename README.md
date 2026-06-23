@@ -33,7 +33,7 @@ Showcase application for the [ArcGIS Maps SDK for JavaScript](https://js.arcgis.
 
 ## Deployment
 
-Application can be viewed live at https://expert-adventure-1qnylvv.pages.github.io/.
+Application can be viewed live at https://esri.github.io/nyc-heli-noise-explorer/.
 
 ## Resources
 
